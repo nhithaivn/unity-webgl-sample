@@ -5,19 +5,23 @@ Use Unity version 2018.2.5f1
 
 ## Reference:
 
-https://github.com/TheRoccoB/UnityBrowserScripting  
-https://github.com/SlimGabsi/Unity-3D-WebGl-Browser-Scripting  
-https://docs.unity3d.com/2018.2/Documentation/Manual/webgl-interactingwithbrowserscripting.html  
-https://docs.unity3d.com/2018.1/Documentation/Manual/webgl-templates.html
+Course: https://github.com/TheRoccoB/UnityBrowserScripting  
+Unity Document:
 
-# Build and Run
+- https://docs.unity3d.com/2018.2/Documentation/Manual/webgl-interactingwithbrowserscripting.html
+- https://docs.unity3d.com/2018.1/Documentation/Manual/webgl-templates.html
 
-- build.
+FlappyBirdStyleGame Source: https://github.com/SlimGabsi/Unity-3D-WebGl-Browser-Scripting
+
+## Build and Run
 
 ```sh
 
-Build Setting => Build and Run
+Unity:
+Choese File => Build Setting => Build and Run
 Name build folder "WebGLBuild"
+
+Terminal:
 cd WebGLBuild
 http-server
 
